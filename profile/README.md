@@ -1,5 +1,5 @@
 # Fitrahive
 
-> Fitrah is the innate nature or natural disposition that human beings possess from birth, which inclines them to acknowledge the existence of God and have a moral awareness. It is considered as the foundation of human belief and morality, which can be accessed by people from various religious or belief backgrounds.
+> Fitrah is the pure innate state within every individual at birth, where they possess an inherent knowledge of the Oneness of Allah and an instinctual inclination to acknowledge Him as the sole God and engage in worship to Him in its purest form.
 
-Fitrahive is a unique name that combines the word `fitrah` with the suffix `-ive`. The suffix `-ive` is used to form adjectives that describe a quality or characteristic of a person or thing. Therefore, Fitrahive can be interpreted as a noun that describes a community or organization that embodies the innate nature or natural disposition of human beings, which inclines them to acknowledge the existence of God and have a moral awareness.
+Fitrahive is an open-source programming community that refers to the essence of purity within every individual at birth. By combining the term 'Fitrah' with the suffix -ive, Fitrahive signifies the commitment to unearth and enliven the innate truth of human nature. As a community, Fitrahive is devoted to actualizing humanity's inherent understanding of the oneness of Allah, respecting the instinctual urge to acknowledge the One God, and practicing pure worship in accordance with His guidance.
