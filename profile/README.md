@@ -36,10 +36,12 @@ If you have any questions or want to learn more about Fitrahive, don't hesitate 
 
 To become a part of Fitrahive, follow these simple steps:
 
-1. Contact [Abu Masyail](https://t.me/suluh_s) on Telegram
-2. Engage in community discussions on Telegram to connect with other members
-3. Start contributing to ongoing open-source projects with your code, designs, or ideas
-4. Gain recognition and grow within the community through meaningful contributions
+1. Contact [Abu Masyail](https://t.me/suluh_s) on Telegram;
+2. Engage in community discussions on Telegram to connect with other members;
+3. Start contributing to ongoing open-source projects with your code, designs, or ideas;
+4. Gain recognition and grow within the community through meaningful contributions.
 
 > [!IMPORTANT]
 > Fitrahive **currently operates without** a permanent advisory presence from scholars (asatidz) of the Sunnah. Founder Abu Masyail relies on self-sourced notes (murajaah) from rigorous Sunnah studies for guidance, which inform project implementations. If you are a knowledgeable adherent of the Salaf methodology, your potential involvement as the primary advisor is welcomed. Please contact Abu Masyail for further discussion.
+
+Member of [Programmer Mengaji](https://www.instagram.com/programmer.mengaji/).
