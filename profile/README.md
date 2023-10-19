@@ -1,3 +1,5 @@
+<a href="https://donasi.inh.or.id/PulihkanGaza"><img alt="I stand with Palestine" src="https://github.com/Safouene1/support-palestine-banner/blob/master/banner-project.svg" width="100%" /></a>
+
 # Fitrahive
 
 > Fitrah is the pure innate state within every individual at birth, where they possess an inherent knowledge of the Oneness of Allah and an instinctual inclination to acknowledge Him as the sole God and engage in worship to Him in its purest form.
