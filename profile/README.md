@@ -12,19 +12,13 @@ To be a collaborative hub that inspires and empowers software developers to harn
 
 #### :rocket: Mission
 
-1. **Collaborative Development Rooted in Fitrah:** Foster collaborative software development, drawing inspiration from individuals' inherent pure disposition. Encourage members to contribute with unity, integrity, and cooperative spirit to create innovative solutions.
-
-2. **Quality and Creativity:** Embrace high standards and limitless creativity in every project undertaken. Motivate community members to think beyond boundaries and produce inspirational software.
-
-3. **Free and Open Software Development:** Strive for open-source software development that's accessible and usable by all. Create technology solutions that promote progress and minimize access barriers.
-
-4. **Education and Growth:** Provide opportunities for continuous learning and growth in software development. Offer educational resources, training, and support to expand knowledge and skills.
-
-5. **Ethics and Responsibility:** Teach ethical values in software development, including data security, privacy, and societal impact. Acknowledge our responsibility to society and commit to creating beneficial and secure solutions.
-
-6. **Embracing Technological Advancement:** Help members develop technical proficiency and adapt to the latest technological trends. Be a platform for innovation guided by fitrah principles to address contemporary tech challenges.
-
-7. **Unleashing Individual Potential:** Encourage each member to recognize and embrace their creative potential in software development. Cultivate an environment that supports individual expression and unique contributions.
+- Foster collaborative software development, drawing inspiration from individuals' inherent pure disposition. Encourage members to contribute with unity, integrity, and cooperative spirit to create innovative solutions.
+- Embrace high standards and limitless creativity in every project undertaken. Motivate community members to think beyond boundaries and produce inspirational software.
+- Strive for open-source software development that's accessible and usable by all. Create technology solutions that promote progress and minimize access barriers.
+- Provide opportunities for continuous learning and growth in software development. Offer educational resources, training, and support to expand knowledge and skills.
+- Teach ethical values in software development, including data security, privacy, and societal impact. Acknowledge our responsibility to society and commit to creating beneficial and secure solutions.
+- Help members develop technical proficiency and adapt to the latest technological trends. Be a platform for innovation guided by fitrah principles to address contemporary tech challenges.
+- Encourage each member to recognize and embrace their creative potential in software development. Cultivate an environment that supports individual expression and unique contributions.
 
 #### :fax: Contact Us
 
