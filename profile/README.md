@@ -38,4 +38,4 @@ To become a part of Fitrahive, follow these simple steps:
 4. Gain recognition and grow within the community through meaningful contributions.
 
 > [!IMPORTANT]
-> Fitrahive **currently operates without** a permanent advisory presence from scholars (asatidz) of the Sunnah. Founder Abu Masyail relies on self-sourced notes (murajaah) from rigorous Sunnah studies for guidance, which inform project implementations. If you are a knowledgeable adherent of the Salaf methodology, your potential involvement as the primary advisor is welcomed. Please contact Abu Masyail for further discussion.
+> Fitrahive **currently operates without** a permanent advisory presence from scholars (asatidz) of the Sunnah. The founder relies on self-sourced notes (murajaah) from rigorous Sunnah studies for guidance, which inform project implementations. If you are a knowledgeable adherent of the Salaf methodology, your potential involvement as the primary advisor is welcomed. Please contact Suluh for further discussion.
