@@ -32,7 +32,7 @@ If you have any questions or want to learn more about Fitrahive, don't hesitate 
 
 To become a part of Fitrahive, follow these simple steps:
 
-1. Contact [Abu Masyail](https://t.me/suluh_s) on Telegram;
+1. Contact [Suluh S](https://t.me/suluh_s) on Telegram;
 2. Engage in community discussions on Telegram to connect with other members;
 3. Start contributing to ongoing open-source projects with your code, designs, or ideas;
 4. Gain recognition and grow within the community through meaningful contributions.
